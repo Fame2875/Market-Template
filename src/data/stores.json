@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "imgUrl": "/imgs/library-books.jpg",
+      "activeTimePeriod": {"open": "10:00 AM","close": "6:00 PM"    }
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "imgUrl": "/imgs/store.jpg",
+      "activeTimePeriod": { "open": "10:00 AM",  "close": "6:00 PM"    }
+    }
+  ]
